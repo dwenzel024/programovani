@@ -1,3 +1,5 @@
+zdravim, jmenuji se David Wenzel a vitejte na mem github profilu
+
 zde budu sdilet sve programy v pythonu, slouzici primarne jako trenink a ukoly do skoly
 
 moje programy:
