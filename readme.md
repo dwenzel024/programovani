@@ -1,20 +1,35 @@
-zdravim, jmenuji se David Wenzel a vitejte na mem github profilu
+Zdravím, jmenuji se David Wenzel a vítám vás na svém GitHub profilu.
 
-zde budu sdilet sve programy v pythonu, slouzici primarne jako trenink a ukoly do skoly
+Zde sdílím své programy v Pythonu, které slouží primárně jako trénink a školní úkoly.
 
-moje programy:
+Moje projekty:
 
-(`test_prvocisel.py`)
-test zdali je cislo prvocislem nebo neni
+test_prvocisel.py
 
-(`prumer_znamek.py`)
-vypocita vazenny prumer ze znamek a jejich vahy
+Ověří, zda je zadané číslo prvočíslem.
 
-(`pocitani_samohlasek.py`)
-vypocita pocet samohlasek v textu
+prumer_znamek.py
 
-(`hod_kostkou.py`)
-nemate u sebe hraci kostku? tenhle program simuluje hod kostkou (1-6)
+Vypočítá vážený průměr ze zadaných známek a jejich vah.
 
-(`generator_hesel.py`)
-umi vygenerovat silne heslo z pismen, cisel i znaku podle vami vybrane delky
+pocitani_samohlasek.py
+
+Spočítá počet samohlásek v zadaném textu.
+
+hod_kostkou.py
+
+Simuluje hod hrací kostkou (1–6).
+
+generator_hesel.py
+
+Vygeneruje silné heslo z písmen, čísel a speciálních znaků podle zvolené délky.
+
+mastermind.py
+
+Implementace klasické hry Mastermind s možností výběru barev a zpětné vazby v podobě černých a bílých kolíků.
+
+tahak_python.md
+
+Přehledný tahák na Python, obsahující základní konstrukce, datové typy, funkce, třídy, práci se soubory a další užitečné informace.
+
+Další projekty budou postupně přibývat.
